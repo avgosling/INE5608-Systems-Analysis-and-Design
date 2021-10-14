@@ -3,6 +3,7 @@ Repository of tasks and papers related to Systems Analysis and Design, a course 
 
 Students:
 Luiz André Gosling
+
 José Ribamar
 
 This game was developed according to diagrams made in the Enterprise Architect software. The programming language used was Python (and libraries like Pygame, PySimpleGUI and Pandas).
